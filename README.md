@@ -14,7 +14,24 @@ A comprehensive, open-source icon set covering:
 
 ## Status
 
-🚧 **Early Development** - Repo just created, structure being defined.
+🚧 **Early Development** - 15 wallet icons added, more coming soon!
+
+**Current Icons:**
+- ✅ Phantom
+- ✅ Backpack
+- ✅ Solflare
+- ✅ Coinbase
+- ✅ TipLink
+- ✅ Coin98
+- ✅ Trust Wallet
+- ✅ Magic Eden Wallet
+- ✅ Jupiter Wallet
+- ✅ Ledger
+- ✅ Wallet12
+- ✅ OKX Wallet
+- ✅ Bitget Wallet
+- ✅ Trezor
+- ✅ WalletConnect
 
 ## Planned Features
 
